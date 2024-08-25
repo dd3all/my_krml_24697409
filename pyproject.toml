@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "my_krml_24697409"
-version = "0.1.0"
+version = "2024.0.1.1"
 description = "lab2_package"
 authors = ["my_krml_24697409"]
 license = "MIT"
